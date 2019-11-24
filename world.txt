@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 HelloKitty
-=======
-HelloWorld
->>>>>>> e13d45937144d94703fb0034ace167f248adb883
+
